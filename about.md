@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m Robert Velasquez, an almost 30-something that works in technology. I’ve started this blog with the hope of taking all of the loose ideas I have in my head and making sense of them. I’ve attempted to make writing a habit many a time but I hope that this time is different.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I currently work at BitTorrent Inc where I’m product manager for a new web browser we call Surf. I grew up in San Antonio, Texas and moved to San Francisco in 2010 where I’ve enjoyed various jobs in design and product.
