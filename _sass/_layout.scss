@@ -26,6 +26,9 @@
     &,
     &:visited {
         color: $grey-color-dark;
+        background: url(../imgs/logo.png) no-repeat 0 8px;
+        padding-left: 115px;
+        text-indent: -9999px;
     }
 }
 
@@ -177,7 +180,22 @@
     padding: $spacing-unit 0;
 }
 
+
+h1 {
+  &.site-heading {
+    font-size: 50px;
+    padding-top: 140px;
+    background: url(../imgs/logo.png) no-repeat center -80px;
+    margin-bottom: 50px;
+  }
+}
+
+.site-heading {
+  text-align: center;
+}
+
 .page-heading {
+  text-transform: uppercase;
 }
 
 .post-list {
