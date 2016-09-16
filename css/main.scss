@@ -7,10 +7,10 @@
 
 // Our variables
 $base-font-family: Vollkorn, Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size: 16px;
 $base-font-weight: 300;
 $header-font-family: Lato, Helvetica, Arial, sans-serif;
-$header-font-size:   20px;
+$header-font-size: 20px;
 $header-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -30,6 +30,8 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+$port-large:       1180px;
+$port-med:         600px;
 
 
 
@@ -52,5 +54,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
+        "portfolio",
         "syntax-highlighting"
 ;
